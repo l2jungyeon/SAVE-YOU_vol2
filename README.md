@@ -1,7 +1,7 @@
 # 🌟SAVE, YOU: 개인정보 노출 방지 웹사이트🌟
 
 <p align="center">
-  <img src="./figures/framework.png" alt="framework" />
+  <img src="./figures/framework.png" alt="overview" />
 </p>
 ---
 
